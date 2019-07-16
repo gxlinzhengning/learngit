@@ -1,0 +1,8 @@
+	class Point {
+		constructor(){
+			this.a=10;
+		}
+		toString(){
+			return "super";
+		}
+}
